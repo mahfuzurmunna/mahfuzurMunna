@@ -29,10 +29,10 @@
 
 <!-- Social Media Links -->
 ### Connect with me:
-[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/mahfuzurmunna_r)
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/mahfuzurmunna)
-[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/mahfuzmunna07)
-[![Dribbble](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg)](https://dribbble.com/mahfuzurmunna)
+[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />](https://twitter.com/mahfuzurmunna_r)
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://linkedin.com/in/mahfuzurmunna)
+[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />](https://instagram.com/mahfuzmunna07)
+[<img align="left" alt="Dribbble" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/dribbble.svg" />](https://dribbble.com/mahfuzurmunna)
 
 <!-- Languages and Tools -->
 ### Languages and Tools:
