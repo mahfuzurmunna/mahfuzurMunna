@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![MasterHead](https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png)
+![MasterHead]([https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png](https://i.ibb.co/MMrK4QS/github-banner.png))
 
 <!-- Introduction -->
 # Hello 👋, I'm Mahfuzur Rahman Munna
