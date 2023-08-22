@@ -10,6 +10,9 @@
 
 <!-- Social Media Badges -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/mahfuzurmunna_r?logo=twitter&style=for-the-badge)](https://twitter.com/mahfuzurmunna_r)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mahfuzurmunna)
+[![Instagram](https://img.shields.io/badge/Instagram--red?style=for-the-badge&logo=instagram)](https://instagram.com/mahfuzmunna07)
+[![Dribbble](https://img.shields.io/badge/Dribbble--pink?style=for-the-badge&logo=dribbble)](https://dribbble.com/mahfuzurmunna)
 
 <!-- Current Focus -->
 - 🔭 I’m currently working on **Calorie Tracker**
