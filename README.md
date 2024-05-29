@@ -2,7 +2,7 @@
 ![MasterHead](https://i.ibb.co/MMrK4QS/github-banner.png)
 
 <!-- Introduction -->
-# Hello 👋, I'm Mahfuzur Rahman Munna
+#Welcome to My Github Profile 👨‍💻
 ## Front End React Developer & UX/UI Designer
 
 <!-- Profile Views Counter -->
@@ -15,12 +15,10 @@
 [![Dribbble](https://img.shields.io/badge/Dribbble--pink?style=for-the-badge&logo=dribbble)](https://dribbble.com/mahfuzurmunna)
 
 <!-- Current Focus -->
-- 🔭 I’m currently working on **Calorie Tracker**
 - 🌱 I’m currently learning **Next JS, Typescript**
 
 <!-- Projects and Contact Info -->
 - 👨‍💻 All of my projects are available at [Portfolio](https://mahfuzurmunna-v1.netlify.app/)
-- 💬 Ask me about **Anything**
 - 📫 How to reach me **mahfuzurrm07@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12T2OGKNeQu0xXw0vsn_rlQl4QeZpjRuh/view?usp=sharing)
 
