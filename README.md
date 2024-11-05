@@ -2,7 +2,7 @@
 ![MasterHead](https://i.ibb.co/MMrK4QS/github-banner.png)
 
 <!-- Introduction -->
-#Welcome to My Github Profile 👨‍💻
+# Welcome to My Github Profile 👨‍💻
 ## Front End React Developer & UX/UI Designer
 
 <!-- Profile Views Counter -->
@@ -25,6 +25,14 @@
 <!-- Fun Fact -->
 - ⚡ Fun fact **I was a professional gamer**
 
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
 
+![Munna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahfuzurmunna&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuzurmunna&layout=compact&theme=radical)
 
+<!-- Streak Stats -->
+## 🔥 Streak Stats
+
+![Munna's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahfuzurmunna&theme=radical)
