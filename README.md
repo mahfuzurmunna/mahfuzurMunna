@@ -3,7 +3,7 @@
 
 <!-- Introduction -->
 # Welcome to My Github Profile 👨‍💻
-## Front End React Developer & UX/UI Designer
+## Front End Developer & UX/UI Designer
 
 <!-- Profile Views Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=mahfuzurmunna&label=Profile%20views&color=0e75b6&style=flat)
