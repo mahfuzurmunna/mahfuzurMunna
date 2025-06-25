@@ -18,9 +18,9 @@
 - 🌱 I’m currently learning **Next JS, Typescript**
 
 <!-- Projects and Contact Info -->
-- 👨‍💻 All of my projects are available at [Portfolio](https://mahfuzurmunna-v1.netlify.app/)
+<!-- - 👨‍💻 All of my projects are available at [Portfolio](https://mahfuzurmunna-v1.netlify.app/) -->
 - 📫 How to reach me **mahfuzurrm07@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12T2OGKNeQu0xXw0vsn_rlQl4QeZpjRuh/view?usp=sharing)
+<!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12T2OGKNeQu0xXw0vsn_rlQl4QeZpjRuh/view?usp=sharing) -->
 
 <!-- Fun Fact -->
 - ⚡ Fun fact **I was a professional gamer**
