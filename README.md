@@ -5,8 +5,8 @@
 # Welcome to My Github Profile 👨‍💻
 ## Front End Developer & UX/UI Designer
 
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=mahfuzurmunna&label=Profile%20views&color=0e75b6&style=flat)
+<!-- Profile Views Counter 
+![Profile Views](https://komarev.com/ghpvc/?username=mahfuzurmunna&label=Profile%20views&color=0e75b6&style=flat) -->
 
 <!-- Social Media Badges -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/mahfuzurmunna_r?logo=twitter&style=for-the-badge)](https://twitter.com/mahfuzurmunna_r)
