@@ -22,10 +22,10 @@
     <img src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance" />
   </a>
   
-  <br><br>
+  <br>
   
-  🌱 Learning <b>Next.js & TypeScript</b> •  
-  ⚡ Ex-Professional Gamer •  
+  🌱 Currently learning <b>Next.js & TypeScript</b> •  
+  ⚡ Fun fact- I was a Professional Gamer •  
   📫 <b>mahfuzurrm07@gmail.com</b>  
 </p>
 
