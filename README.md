@@ -9,21 +9,16 @@
   <a href="https://linkedin.com/in/mahfuzurmunna">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://twitter.com/mahfuzurmunna_r">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter" />
-  </a>
-  <a href="https://instagram.com/mahfuzmunna07">
+  <a target="_blank" href="https://instagram.com/mahfuzmunna07">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram" />
   </a>
-  <a href="https://dribbble.com/mahfuzurmunna">
+  <a target="_blank" href="https://dribbble.com/mahfuzurmunna">
     <img src="https://img.shields.io/badge/-Dribbble-EA4C89?style=for-the-badge&logo=dribbble" />
   </a>
-  <a href="https://www.behance.net/mahfuzurmunna">
-    <img src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance" />
+  <a target="_blank" href="https://www.behance.net/mahfuzurmunna">
+    <img  src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance" />
   </a>
-  
-  <br>
-  
+  <br> <br>
   🌱 Currently learning <b>Next.js & TypeScript</b> •  
   ⚡ Fun fact- I was a Professional Gamer •  
   📫 <b>mahfuzurrm07@gmail.com</b>  
