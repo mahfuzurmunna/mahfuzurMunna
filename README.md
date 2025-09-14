@@ -9,9 +9,6 @@
   <a  target="_blank" href="https://linkedin.com/in/mahfuzurmunna">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin" />
   </a>
-  <a  target="_blank" href="https://instagram.com/mahfuzmunna07">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram" />
-  </a> 
   <a  target="_blank" href="https://www.behance.net/mahfuzurmunna">
     <img  src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance" />
   </a>
