@@ -3,7 +3,7 @@
 
 <p align="center">
   <h2>👨‍💻 Mahfuzur Rahman Munna</h2>
-  <h4>Front-End Developer | Product Designer</h4>
+  <h4>Front-End Developer | User Experience Designer</h4>
   
   <!-- Social Links -->
   <a  target="_blank" href="https://linkedin.com/in/mahfuzurmunna">
